@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan Rolfe</h1>
-<h3 align="center">A multifaceted coding enthusiast from London</h3>
+
 
 - 🌱 I’m currently learning **React Native**
 
